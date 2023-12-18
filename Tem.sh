@@ -27,7 +27,7 @@ echo -e "\e[1m\e[31m\
 🟦⬜⬛⬜⬛⬜🟦
 🟦⬜⬛⬜⬛⬜🟦
 🟧🟧🟧⬛🟧🟧🟧
-🟧🟧🟧🟧🟧🟧🟧
+🟧🟧🟧🟧🟧🟧🟧" 
 
 echo " "  
 echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By reza Joker \e[31mN17R0 \e[1m\e[32m░▒▓▇▆▅▄▃▂"
